@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--Name                 Matthew Cadden
+    Student ID           S1508111
+    Programme of Study   Computer Games (Software Development)-->
+
+
+
+<resources>
+
+    <string name="app_name">MPDAssignment</string>
+    <string name="sort_prompt">Choose a sort</string>
+
+    <string-array name="sort_arrays">
+        <item>Magnitude</item>
+        <item>North</item>
+        <item>South</item>
+        <item>East</item>
+        <item>West</item>
+        <item>Deepest</item>
+    </string-array>
+
+</resources>
